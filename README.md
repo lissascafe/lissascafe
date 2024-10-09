@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lissascafe/lissascafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><a href="https://kafelissa.netlify.app/guess"><img width="80%" alt="" src="https://lh3.googleusercontent.com/d/1BAW_6k1bJNmZHE8O1cZNro3ZIZkt0Mbw?"/></a></p>
+<p align="center"><q> Are you wandering, little one... lost, perhaps? </q></p>
+<p align="center"><var>~ kwafeLt was here</var></p>
